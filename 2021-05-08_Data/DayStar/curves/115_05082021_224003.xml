@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<IV_Curves>
+    <Version>1.00</Version>
+    <Curve>
+        <Name>M2</Name>
+        <GUID>06e1efa5-4240-4508-8768-f2d05d5d3ff2</GUID>
+        <Category>Unfiled</Category>
+        <Site></Site>
+        <Sub_System></Sub_System>
+        <ModuleID>115</ModuleID>
+        <Misc></Misc>
+        <Notes></Notes>
+        <NormData></NormData>
+        <PeakPower units="Watts">0.000000</PeakPower>
+        <Vpeak units="Volts">-0.001119</Vpeak>
+        <Ipeak units="Amps">-0.000085</Ipeak>
+        <Voc units="Volts">9.685750</Voc>
+        <Voltage_Range units="Volts">10.786194</Voltage_Range>
+        <Voltage_Resolution units="Volts/Bit">0.000329179</Voltage_Resolution>
+        <Isc units="Amps">0.000305</Isc>
+        <Current_Range units="Amps">1.998413</Current_Range>
+        <Current_Resolution units="Amps/Bit">6.09886e-05</Current_Resolution>
+        <FillFactor units="%">0.003235</FillFactor>
+        <Date_Time date="05/08/2021" time="22:40:03">2021-05-08T22:40:03</Date_Time>
+        <AmpRange>High</AmpRange>
+        <NormSourceGUID>00000000-0000-0000-0000-000000000000</NormSourceGUID>
+        <Normalized>false</Normalized>
+        <Irradiances />
+        <Temperatures />
+        <AuxInputs />
+        <AfterIrradiances />
+        <AfterTemperatures />
+        <AfterAuxInputs />
+        <Points>
+            <Point>
+                <Volts>0.000000</Volts>
+                <Amps>0.000305</Amps>
+            </Point>
+            <Point>
+                <Volts>-0.000658</Volts>
+                <Amps>0.000305</Amps>
+            </Point>
+            <Point>
+                <Volts>-0.001053</Volts>
+                <Amps>0.000110</Amps>
+            </Point>
+            <Point>
+                <Volts>-0.001185</Volts>
+                <Amps>0.000525</Amps>
+            </Point>
+            <Point>
+                <Volts>-0.001185</Volts>
+                <Amps>0.000110</Amps>
+            </Point>
+            <Point>
+                <Volts>-0.000790</Volts>
+                <Amps>-0.000012</Amps>
+            </Point>
+            <Point>
+                <Volts>-0.000724</Volts>
+                <Amps>-0.000049</Amps>
+            </Point>
+            <Point>
+                <Volts>-0.001119</Volts>
+                <Amps>-0.000085</Amps>
+            </Point>
+            <Point>
+                <Volts>-0.001251</Volts>
+                <Amps>0.000427</Amps>
+            </Point>
+            <Point>
+                <Volts>-0.001185</Volts>
+                <Amps>0.000403</Amps>
+            </Point>
+            <Point>
+                <Volts>-0.000988</Volts>
+                <Amps>0.000134</Amps>
+            </Point>
+            <Point>
+                <Volts>-0.000988</Volts>
+                <Amps>-0.000061</Amps>
+            </Point>
+            <Point>
+                <Volts>9.685750</Volts>
+                <Amps>0.000000</Amps>
+            </Point>
+        </Points>
+    </Curve>
+</IV_Curves>

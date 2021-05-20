@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<IV_Curves>
+    <Version>1.00</Version>
+    <Curve>
+        <Name>M1</Name>
+        <GUID>33d01c21-df81-4855-b893-7b56917bf0e9</GUID>
+        <Category>Unfiled</Category>
+        <Site></Site>
+        <Sub_System></Sub_System>
+        <ModuleID>114</ModuleID>
+        <Misc></Misc>
+        <Notes></Notes>
+        <NormData></NormData>
+        <PeakPower units="Watts">0.000000</PeakPower>
+        <Vpeak units="Volts">-0.001251</Vpeak>
+        <Ipeak units="Amps">-0.000231</Ipeak>
+        <Voc units="Volts">10.259444</Voc>
+        <Voltage_Range units="Volts">10.787511</Voltage_Range>
+        <Voltage_Resolution units="Volts/Bit">0.000329219</Voltage_Resolution>
+        <Isc units="Amps">0.000668</Isc>
+        <Current_Range units="Amps">1.990824</Current_Range>
+        <Current_Resolution units="Amps/Bit">6.0757e-05</Current_Resolution>
+        <FillFactor units="%">0.004212</FillFactor>
+        <Date_Time date="05/08/2021" time="22:40:02">2021-05-08T22:40:02</Date_Time>
+        <AmpRange>High</AmpRange>
+        <NormSourceGUID>00000000-0000-0000-0000-000000000000</NormSourceGUID>
+        <Normalized>false</Normalized>
+        <Irradiances />
+        <Temperatures />
+        <AuxInputs />
+        <AfterIrradiances />
+        <AfterTemperatures />
+        <AfterAuxInputs />
+        <Points>
+            <Point>
+                <Volts>0.000000</Volts>
+                <Amps>0.000668</Amps>
+            </Point>
+            <Point>
+                <Volts>-0.000988</Volts>
+                <Amps>0.000668</Amps>
+            </Point>
+            <Point>
+                <Volts>-0.001251</Volts>
+                <Amps>-0.000231</Amps>
+            </Point>
+            <Point>
+                <Volts>10.259444</Volts>
+                <Amps>0.000000</Amps>
+            </Point>
+        </Points>
+    </Curve>
+</IV_Curves>

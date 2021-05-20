@@ -1,0 +1,169 @@
+<?xml version="1.0" ?>
+<IV_Curves>
+    <Version>1.00</Version>
+    <Curve>
+        <Name>C1</Name>
+        <GUID>e3915390-9dca-4dc7-bbc3-7133c24c64f4</GUID>
+        <Category>Unfiled</Category>
+        <Site></Site>
+        <Sub_System></Sub_System>
+        <ModuleID>103</ModuleID>
+        <Misc></Misc>
+        <Notes></Notes>
+        <NormData></NormData>
+        <PeakPower units="Watts">0.001071</PeakPower>
+        <Vpeak units="Volts">0.278386</Vpeak>
+        <Ipeak units="Amps">0.003846</Ipeak>
+        <Voc units="Volts">1.492355</Voc>
+        <Voltage_Range units="Volts">5.281918</Voltage_Range>
+        <Voltage_Resolution units="Volts/Bit">0.000161196</Voltage_Resolution>
+        <Isc units="Amps">0.000669</Isc>
+        <Current_Range units="Amps">1.993890</Current_Range>
+        <Current_Resolution units="Amps/Bit">6.08506e-05</Current_Resolution>
+        <FillFactor units="%">107.176500</FillFactor>
+        <Date_Time date="05/08/2021" time="22:30:02">2021-05-08T22:30:02</Date_Time>
+        <AmpRange>High</AmpRange>
+        <NormSourceGUID>00000000-0000-0000-0000-000000000000</NormSourceGUID>
+        <Normalized>false</Normalized>
+        <Temp1 tc_type="T">
+            <Value units="C">19.750660</Value>
+            <InputSource>THERMOCOUPLE</InputSource>
+        </Temp1>
+        <Irradiances />
+        <Temperatures>
+            <Temperature value="1.975066E+01" description="T_C1" type="THERMOCOUPLE" units="C" tc_type="T" data_source="0" input_id="51" index="0" />
+        </Temperatures>
+        <AuxInputs />
+        <AfterIrradiances />
+        <AfterTemperatures>
+            <Temperature value="1.975066E+01" description="T_C1" type="THERMOCOUPLE" units="C" tc_type="T" data_source="0" input_id="51" index="0" />
+        </AfterTemperatures>
+        <AfterAuxInputs />
+        <Points>
+            <Point>
+                <Volts>0.000000</Volts>
+                <Amps>0.000669</Amps>
+            </Point>
+            <Point>
+                <Volts>-0.000484</Volts>
+                <Amps>0.000669</Amps>
+            </Point>
+            <Point>
+                <Volts>-0.000774</Volts>
+                <Amps>0.000329</Amps>
+            </Point>
+            <Point>
+                <Volts>0.011671</Volts>
+                <Amps>0.000195</Amps>
+            </Point>
+            <Point>
+                <Volts>0.019956</Volts>
+                <Amps>0.000061</Amps>
+            </Point>
+            <Point>
+                <Volts>0.028177</Volts>
+                <Amps>0.000195</Amps>
+            </Point>
+            <Point>
+                <Volts>0.036559</Volts>
+                <Amps>0.000037</Amps>
+            </Point>
+            <Point>
+                <Volts>0.044813</Volts>
+                <Amps>0.000609</Amps>
+            </Point>
+            <Point>
+                <Volts>0.053582</Volts>
+                <Amps>0.001107</Amps>
+            </Point>
+            <Point>
+                <Volts>0.062125</Volts>
+                <Amps>0.000499</Amps>
+            </Point>
+            <Point>
+                <Volts>0.070507</Volts>
+                <Amps>0.000231</Amps>
+            </Point>
+            <Point>
+                <Volts>0.078785</Volts>
+                <Amps>0.000030</Amps>
+            </Point>
+            <Point>
+                <Volts>0.086788</Volts>
+                <Amps>0.000341</Amps>
+            </Point>
+            <Point>
+                <Volts>0.094687</Volts>
+                <Amps>0.000669</Amps>
+            </Point>
+            <Point>
+                <Volts>0.104101</Volts>
+                <Amps>0.000949</Amps>
+            </Point>
+            <Point>
+                <Volts>0.111064</Volts>
+                <Amps>0.000560</Amps>
+            </Point>
+            <Point>
+                <Volts>0.120123</Volts>
+                <Amps>0.001302</Amps>
+            </Point>
+            <Point>
+                <Volts>0.127055</Volts>
+                <Amps>-0.000037</Amps>
+            </Point>
+            <Point>
+                <Volts>0.135598</Volts>
+                <Amps>0.000365</Amps>
+            </Point>
+            <Point>
+                <Volts>0.145335</Volts>
+                <Amps>0.000341</Amps>
+            </Point>
+            <Point>
+                <Volts>0.150590</Volts>
+                <Amps>0.000706</Amps>
+            </Point>
+            <Point>
+                <Volts>0.158682</Volts>
+                <Amps>0.000256</Amps>
+            </Point>
+            <Point>
+                <Volts>0.190147</Volts>
+                <Amps>0.001168</Amps>
+            </Point>
+            <Point>
+                <Volts>0.209813</Volts>
+                <Amps>0.001351</Amps>
+            </Point>
+            <Point>
+                <Volts>0.167354</Volts>
+                <Amps>-0.000961</Amps>
+            </Point>
+            <Point>
+                <Volts>0.261073</Volts>
+                <Amps>0.001059</Amps>
+            </Point>
+            <Point>
+                <Volts>0.278386</Volts>
+                <Amps>0.003846</Amps>
+            </Point>
+            <Point>
+                <Volts>0.299632</Volts>
+                <Amps>0.000633</Amps>
+            </Point>
+            <Point>
+                <Volts>0.239731</Volts>
+                <Amps>-0.000243</Amps>
+            </Point>
+            <Point>
+                <Volts>0.150396</Volts>
+                <Amps>-0.000815</Amps>
+            </Point>
+            <Point>
+                <Volts>1.492355</Volts>
+                <Amps>0.000000</Amps>
+            </Point>
+        </Points>
+    </Curve>
+</IV_Curves>
